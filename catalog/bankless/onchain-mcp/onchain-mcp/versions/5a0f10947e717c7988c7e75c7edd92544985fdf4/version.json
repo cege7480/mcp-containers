@@ -1,15 +1,15 @@
 {
-  "serverId": "bankless/onchain-mcp/onchain-mcp",
+  "serverId": "Bankless/onchain-mcp/onchain-mcp",
   "version": "5a0f10947e717c7988c7e75c7edd92544985fdf4",
   "manifest": {
     "id": "onchain-mcp",
-    "fullId": "bankless/onchain-mcp/onchain-mcp",
+    "fullId": "Bankless/onchain-mcp/onchain-mcp",
     "repo": {
       "provider": "github.com",
-      "owner": "bankless",
+      "owner": "Bankless",
       "repo": "onchain-mcp",
       "branch": "main",
-      "url": "https://github.com/bankless/onchain-mcp"
+      "url": "https://github.com/Bankless/onchain-mcp/"
     },
     "config": {
       "argumentsTemplate": null,
@@ -32,8 +32,8 @@
     "title": "Bankless Onchain MCP Server",
     "description": "MCP (Model Context Protocol) server for blockchain data interaction through the Bankless API."
   },
-  "manifestHash": "ce057a951db92db9467d1d1a0fd21d97",
-  "createdAt": "2025-04-21T06:19:30.023Z",
+  "manifestHash": "f33ab072a622118984536795d1d6fcd3",
+  "createdAt": "2025-04-21T06:19:30.127Z",
   "builder": [
     {
       "type": "nixpacks",
